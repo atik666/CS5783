@@ -10,6 +10,10 @@ CV2
 
 Numpy
 
+skimage
+
+random
+
 
 Question4 contains answers to the questions 4.
 
